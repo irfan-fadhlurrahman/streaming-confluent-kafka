@@ -1,0 +1,1 @@
+# Confluent Kafka: Simple project with one producer and one consumer
